@@ -1,0 +1,17 @@
+#python cache
+__pycach__/
+*.pyc
+
+#virtual environments
+.venv
+venv/
+
+#testing
+.pytest_cache/
+
+#Generated reports
+reports/*.json
+reports/*.csv
+
+#OS files
+.DS_Store
