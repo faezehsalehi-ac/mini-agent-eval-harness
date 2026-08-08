@@ -3,6 +3,8 @@ name = "mini-agent-eval-harness"
 version = "0.1.0"
 description = " A minimal harness for evaluating LLM/agent outputs on small coding tasks"
 requires-python = ">=3.10"
+[tool.pytest.ini_options]
+pythonpath = ["."]
 dependencies = [
     "pytest"
 ]
