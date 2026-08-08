@@ -6,5 +6,6 @@ requires-python = ">=3.10"
 [tool.pytest.ini_options]
 pythonpath = ["."]
 dependencies = [
-    "pytest"
+    "pytest",
+    "pytest-cov"
 ]
