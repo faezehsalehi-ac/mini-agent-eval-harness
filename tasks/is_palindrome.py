@@ -6,5 +6,5 @@ def solve (s: str) -> bool:
 TEST_CASES = [
     {"input" : {"s":"level"}, "expected": True},
     {"input" : {"s":"hello"}, "expected": False},
-    {"input" : {"s":"A man a plan a canal panama"}, "expected": 55},
+    {"input" : {"s":"A man a plan a canal panama"}, "expected": True},
 ]
