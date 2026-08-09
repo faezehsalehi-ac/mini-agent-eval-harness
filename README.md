@@ -17,7 +17,14 @@ Built as part of phase 1(Fundamentals) toward a thesis on evaluation and reliabi
 
 
 
+## How to Run
+'''bash
+pip install -e
+python main .py
 
+## How to Run Tests
+'''bash
+pytest --cov=harness --cove-report=term-missing
 
 
 
