@@ -1,4 +1,8 @@
 # Mini Agent Eval Harness
+
+[![Run Tests](https://github.com/faezehsalehi-ac/mini-agent-eval-harness/actions/workflows/tests.yml/badge.svg)](https://github.com/faezehsalehi-ac/mini-agent-eval-harness/actions/workflows/tests.yml)
+
+
 a minimal harness for evaluating LLM and agent outputs on small coding tasks.
 Built as part of phase 1(Fundamentals) toward a thesis on evaluation and reliability of autonomous agents in software engineering .
 
