@@ -13,6 +13,7 @@ Built as part of phase 1(Fundamentals) toward a thesis on evaluation and reliabi
 - 'tasks/' - sample coding tasks with test cases
 - 'harness/' - evaluation logic (task loading , execution, reporting )
 - 'test/' - unit tests for the harness itself
+- 'notes/' -research notes connecting this project to the thesis direction
 
 
 
